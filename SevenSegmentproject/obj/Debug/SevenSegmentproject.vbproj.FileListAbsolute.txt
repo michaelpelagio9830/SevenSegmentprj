@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\SevenSegmentproject\SevenSegmentproject\obj\Debug\SevenSegmentproject.vbprojAssemblyReference.cache
+C:\Users\DELL\source\repos\SevenSegmentproject\SevenSegmentproject\obj\Debug\SevenSegmentproject.Form1.resources
+C:\Users\DELL\source\repos\SevenSegmentproject\SevenSegmentproject\obj\Debug\SevenSegmentproject.Resources.resources
+C:\Users\DELL\source\repos\SevenSegmentproject\SevenSegmentproject\obj\Debug\SevenSegmentproject.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\SevenSegmentproject\SevenSegmentproject\bin\Debug\SevenSegmentproject.exe.config
+C:\Users\DELL\source\repos\SevenSegmentproject\SevenSegmentproject\bin\Debug\SevenSegmentproject.exe
+C:\Users\DELL\source\repos\SevenSegmentproject\SevenSegmentproject\bin\Debug\SevenSegmentproject.pdb
+C:\Users\DELL\source\repos\SevenSegmentproject\SevenSegmentproject\bin\Debug\SevenSegmentproject.xml
+C:\Users\DELL\source\repos\SevenSegmentproject\SevenSegmentproject\obj\Debug\SevenSegmentproject.exe
+C:\Users\DELL\source\repos\SevenSegmentproject\SevenSegmentproject\obj\Debug\SevenSegmentproject.xml
+C:\Users\DELL\source\repos\SevenSegmentproject\SevenSegmentproject\obj\Debug\SevenSegmentproject.pdb
